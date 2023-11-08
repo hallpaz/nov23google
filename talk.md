@@ -2,7 +2,7 @@
 marp: true
 ---
 <!-- _class: invert -->
-# Representational Networks
+# Representational Networks for Media Objects
 
 ## Hallison Paz
 
