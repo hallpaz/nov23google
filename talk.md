@@ -8,6 +8,8 @@ marp: true
 
 ### November 8th, 2023
 
+![bg](img/)
+
 ---
 
 # Hallison Paz
@@ -52,6 +54,9 @@ Instituto Militar de Engenharia
 ---
 
 # Representational Networks
+* Continuous
+* Compact
+* New methods/operations
 
 ![bg right](img/cosine_approximation.gif)
 
@@ -85,12 +90,14 @@ Instituto Militar de Engenharia
 
 # References:
 
-- [Implicit Neural Representations
-with Periodic Activation Functions](https://www.vincentsitzmann.com/siren/).
-- [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf).
-- [Occupancy Networks - Learning 3D Reconstruction in Function Space](https://github.com/autonomousvision/occupancy_networks).
-- [AI Graphics Theory and Practice](https://lvelho.impa.br/i3d23/). IMPA Course.
-- [The making of MR-Net and a vision for multiresolution media representation](https://www.youtube.com/live/voVBM6BYs8k?si=lgOZT6BRh9eL8fz3). Visgraf Seminar.
+
+- NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis. [Website](https://www.matthewtancik.com/nerf).
+- Occupancy Networks - Learning 3D Reconstruction in Function Space. [Website](https://github.com/autonomousvision/occupancy_networks).
+- DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation. [Github](https://github.com/facebookresearch/DeepSDF).
+- Implicit Neural Representations
+with Periodic Activation Functions. [Website](https://www.vincentsitzmann.com/siren/).
+- AI Graphics Theory and Practice. [IMPA Course](https://lvelho.impa.br/i3d23/).
+- The making of MR-Net and a vision for multiresolution media representation. [Visgraf Seminar](https://www.youtube.com/live/voVBM6BYs8k?si=lgOZT6BRh9eL8fz3).
 
 <!-- _paginate: true -->
 ---
@@ -99,7 +106,7 @@ with Periodic Activation Functions](https://www.vincentsitzmann.com/siren/).
 # Demo
 
 ### [Training a representational network for images](https://github.com/hallpaz/nov23google/blob/main/code/representational_networks.ipynb)
-<a href="https://github.com/hallpaz/nov23google/blob/main/code/representational_networks.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/hallpaz/nov23google/blob/main/code/representational_networks.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 <table>
   <tr>
