@@ -41,7 +41,7 @@ Instituto Militar de Engenharia
 ----
 # Representational Networks
 
-> You put it in a teapot, it becomes the teapot
+> You put water into a cup, it becomes the cup
 – Bruce Lee
 
 ![bg right:40% height:80%](img/bruce_lee.jpg)
@@ -77,7 +77,7 @@ Instituto Militar de Engenharia
 ----
 # Neural Radiance Fields (NeRFs)
 
-<video width="2008" height="768" controls>
+<video width="1200" height="800" controls>
   <source src="img/nerf-example.mp4" type="video/mp4">
 </video>
 
@@ -85,12 +85,12 @@ Instituto Militar de Engenharia
 
 # References:
 
-* [Implicit Neural Representations
+- [Implicit Neural Representations
 with Periodic Activation Functions](https://www.vincentsitzmann.com/siren/).
-* [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf).
-* [Occupancy Networks - Learning 3D Reconstruction in Function Space](https://github.com/autonomousvision/occupancy_networks).
-* [AI Graphics Theory and Practice](https://lvelho.impa.br/i3d23/). IMPA Course.
-* [The making of MR-Net and a vision for multiresolution media representation](https://www.youtube.com/live/voVBM6BYs8k?si=lgOZT6BRh9eL8fz3). Visgraf Seminar.
+- [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf).
+- [Occupancy Networks - Learning 3D Reconstruction in Function Space](https://github.com/autonomousvision/occupancy_networks).
+- [AI Graphics Theory and Practice](https://lvelho.impa.br/i3d23/). IMPA Course.
+- [The making of MR-Net and a vision for multiresolution media representation](https://www.youtube.com/live/voVBM6BYs8k?si=lgOZT6BRh9eL8fz3). Visgraf Seminar.
 
 <!-- _paginate: true -->
 ---
@@ -98,7 +98,8 @@ with Periodic Activation Functions](https://www.vincentsitzmann.com/siren/).
 
 # Demo
 
-### Training a representational network for images
+### [Training a representational network for images](https://github.com/hallpaz/nov23google/blob/main/code/representational_networks.ipynb)
+<a href="https://github.com/hallpaz/nov23google/blob/main/code/representational_networks.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ---
 
