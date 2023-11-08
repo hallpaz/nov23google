@@ -101,6 +101,14 @@ with Periodic Activation Functions](https://www.vincentsitzmann.com/siren/).
 ### [Training a representational network for images](https://github.com/hallpaz/nov23google/blob/main/code/representational_networks.ipynb)
 <a href="https://github.com/hallpaz/nov23google/blob/main/code/representational_networks.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+<table>
+  <tr>
+    <td> <img src="img/masp.gif"  alt="1" ></td>
+    <td><img src="img/fourier_masp.gif" alt="2"></td>
+    <td><img src="img/siren_masp.gif" alt="3"></td>
+   </tr> 
+</table>
+
 ---
 
 ![bg fit](img/mrnet-paper.png)
